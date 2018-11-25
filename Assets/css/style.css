@@ -1,0 +1,551 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab:400,700');
+
+body{
+	font-family: font-family: 'Roboto Slab', serif;
+}
+.carousel-caption {
+    top: 50%;
+    bottom: auto;
+    color: #0e1924;
+    transform: translateY(-50%);
+}
+
+
+
+header{}
+.top-header{
+	padding: 15px;
+	border-bottom: 1px solid #cac5c5;
+}
+.top-header h6{
+	font-size: 15px;
+	color: #000;
+}
+.socile-icon{}
+.socile-icon li{}
+.socile-icon li a {
+    padding: 16px 16px;
+   
+   
+    color: #656161;
+    font-size: 15px;
+}
+.socile-icon li a:hover{
+	background: #007BFF;
+}
+/****logo*****/
+.second-header{
+	padding: 30px;
+}
+.navber{
+	padding: 30px;
+
+}
+.navber-brand img{
+
+}
+
+address{
+
+}
+address i{
+	font-size: 16px;
+}
+address a{
+	font-size: 16px;
+    color: #3f3f40;
+    text-decoration: none;
+    background-color: transparent;
+    -webkit-text-decoration-skip: objects;
+}
+.nav-item a{
+	color: #000;
+}
+
+.navbar-nav{
+	
+	text-align: center;
+	font-weight: 500
+
+}
+.navbar {
+	padding: 15px;
+}
+.navbar ul li{
+
+}
+.navbar-nav{
+	
+}
+.navbar ul li a{}
+
+
+.carousel-item{
+	
+}
+.carousel-item span{
+	font-size: 30px;
+	color: #fff;
+	font-weight: 700
+
+
+}
+.carousel-item h1{
+	color: #fff;
+	font-size: 4.5rem;
+	margin-top: 10px;
+
+}
+.carousel-item h1 u{
+	color: #006FBE;
+}
+.carousel-item p{
+	color: #000;
+	font-size: 20px;
+	margin-top: 10px;
+}
+.carousel .btn {
+    background: #252525;
+    padding: 15px 25px;
+    font-size: 18px;
+    border-radius: 39px;
+    height: 56px;
+    width: 152px;
+    line-height: 1;
+    margin-top: 20px;
+}
+.carousel .btn:hover{
+	background: #006FBE;
+}
+
+
+
+.business-section{
+	padding: 60px 0px;
+
+}
+.business-part{
+	border: 1px solid#ddd;
+}
+.business-section .business-img:hover {
+	transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    opacity:-10px; 
+    
+}
+
+.business{
+	border: 2px solid #E5E5E5;
+   overflow: hidden;
+    
+}
+
+.business-section .business-img{
+    position: relative;
+    transform: scale(1.05);
+    transition: .4s;
+    -webkit-transition: .4s;
+}
+.business img{
+
+    
+    
+}
+	
+
+.business-section h2 {
+    font-size: 25px;
+    margin-top: 10px;
+}
+.business-section h2:hover{
+	color:#006FBE;
+}
+
+
+
+.business-section i {
+    width: 60px;
+    height: 60px;
+    font-size: 20px;
+    background: #006FBE;
+    line-height: 60px;
+    left: -152px;
+    bottom: -56px;
+    position: relative;
+    z-index: 2;
+    color: #fff;
+}
+.business p{}
+.business-section a {
+    color: #5d5b5b;
+    font-weight: 700;
+    text-orientation: none;
+}
+.business-section a:hover{
+	color:  #006FBE;
+}
+business-section span {
+    background: #006FBE;
+    /* height: 302px; */
+    /* width: 235px; */
+    font-size: 45px;
+    /* border: 1px solid #0f4cca; */
+    left: -151px;
+    position: relative;
+    bottom: -65px;
+    /* line-height: 88px; */
+}
+
+
+.best-service{
+	padding: 60px 0px;
+	background: #F6F6F6;
+}
+.best-service h3{
+	font-size: 30px;
+	font-weight: 500
+
+}
+.best-service p{
+	max-width: 600px;
+}
+.best-service h4{
+	font-size: 25px;
+	color: #006FBE;
+} 
+.best-service i{
+	
+}
+
+
+/********service-section*****/
+.service-section{
+	padding: 60px 0px;
+}
+.service-section h1{
+	font-size: 40px;
+	font-weight: 700
+}
+.service-section h4:hover{
+	color:#006FBE;
+}
+.service-section p{
+	
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.service-section span{
+	font-weight: 500
+	font-size:15px;
+
+}
+.service-part {
+    border: 1px solid #ddd1d1;
+    padding: 30px 10px;
+    margin-top: 15px;
+}
+.service-part i{
+	font-size: 50px;
+	background: #006FBE;
+	width: 80px;
+	height: 80px;
+	line-height: 80px;
+	color: #fff;
+}
+
+/******porject****/
+.Project-section{
+	padding: 60px;
+	color: #fff;
+	background-image: url(../img/bus2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: top center;
+	background-attachment: fixed;
+
+
+}
+.Project-section h1{
+	font-size: 40px;
+	text-transform: uppercase;
+	font-weight: 700
+}
+
+.Project-section p{
+	
+	
+    max-width: 800px;
+    margin: 0 auto;
+}  
+
+
+
+.Project-section a{}
+.project{
+	background: red;
+}
+.projcet img{
+	margin-bottom: 20px;
+	
+}
+.Project-section span{
+	margin-top:15px;
+}
+.
+i{
+	font-size: 25px;
+	margin-right: 5px;
+	padding-top:20px;
+  }
+
+
+
+
+/****** our blog******/
+.Blog-section{
+    padding: 60px 0;
+
+}
+.Blog-section h1{
+    font-size: 45px;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+.Blog-section p{
+    max-width: 800px;
+    
+    margin: 0 auto;
+}
+.Blog-section a{
+    margin-top: -5px;
+    display: block;
+}
+.Blog-section span{
+    margin-top: 5px;
+    display: block;
+}
+.Blog{
+   overflow: hidden;
+   }
+
+ 
+.Blog h3{
+border-bottom: 1px solid #9f9696;
+	font-size: 25px;
+	margin-top: 10px;
+} 
+.Blog h3:hover{
+	color: #006FBE;
+}
+.Blog strong{
+  width: 11px;
+    background: #006FBE;
+    height: 20px;
+    display: block;
+    margin-top: -8px;
+}
+
+.Blog i{
+	font-size: 20px;
+}
+.Blog span {
+    font-size: 13px;
+   
+}
+
+.Blog-section .Blog-img:hover {
+	transform: scale(1);
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    transition: all .5s ease-in-out;
+    -webkit-transition: all .5s ease-in-out;
+    -moz-transition: all .5s ease-in-out;
+    opacity:-10px; 
+}
+.Blog-img {
+	display: block;
+    transform: scale(1.06);
+    -webkit-transform: scale(1.06);
+    -moz-transform: scale(1.06);
+    
+}
+
+.Blog span{}
+.Blog p{}
+.Blog .btn {
+    background: #006FBE;
+    width: 115px;
+    height: 40px;
+    color: #fff;
+    margin-top: 15px;
+    text-transform: capitalize;
+    text-align: center;
+    font-size: 15px;
+    padding: 8px;
+}
+.Blog .btn:hover{
+    background: #000;
+}
+
+
+/********feedback*****/
+.Feedback-section{
+	padding: 60px 0px;
+	background: #006FBE;
+	color: #fff;
+}
+
+.Feedback-section h1{
+	font-weight: 600
+}
+
+	
+.Feedback-section strong {
+       font-size: 26px;
+}
+
+.Feedback-section a{
+	font-size: 15px;
+	font-weight: 700
+	background:#000;
+	text-decoration: none;
+
+}
+.feedback-btn{
+    background: #000;
+    padding: 10px 30px;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.feedback-btn:hover{
+	background: #006FBE;
+	border: 1px solid #fff;
+}
+/*********footer******/
+.footer-section{
+	padding: 60px 0px;
+	background:#000000;
+	color:#fff;
+}
+.footer-section h1{
+	font-size: 30px;
+	text-transform: uppercase;
+
+}
+ .footer-section ul {
+    padding: initial;
+}
+.footer-section  p{
+	color:#fff;
+	
+}
+.Navigation a{
+	color: #fff;
+	text-decoration: none;
+}
+.service a{
+	color:#fff;
+	text-decoration: none;
+}
+.Navigation a {
+    padding: 0;
+   
+}
+.socile a{
+	padding: 0 17px;
+}
+.footer-section a:hover{
+	color: #3cddcf;
+}
+.footer-section .btn{
+	text-transform: uppercase;
+	padding: 10px;
+}
+
+
+
+.footer-section strong{
+	color: blue;
+}
+.footer-section nav{
+	padding: 10px;
+}
+
+
+
+
+
+.footer-lowpart{
+	background: #1D1D1F;
+}
+
+.footer-lowpart p{
+	color: #968787;
+	font-size: 15px;
+	padding: 25px;
+}
+/******/
+.row {
+    
+    margin: 0;
+}
+.footer-section .btn {
+    
+    margin-top: 14px;
+}
+
+
+/********/
+
+.quote {
+    color: rgba(0,0,0,.1);
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+/*-------------------------------*/
+/*    Carousel Fade Transition   */
+/*-------------------------------*/
+
+#fade-quote-carousel.carousel {
+  padding-bottom: 60px;
+}
+#fade-quote-carousel.carousel .carousel-inner .carousel-item {
+  opacity: 0;
+  -webkit-transition-property: opacity;
+      -ms-transition-property: opacity;
+          transition-property: opacity;
+}
+#fade-quote-carousel.carousel .carousel-inner .active {
+  opacity: 1;
+  -webkit-transition-property: opacity;
+      -ms-transition-property: opacity;
+          transition-property: opacity;
+}
+#fade-quote-carousel.carousel .carousel-indicators {
+  bottom: 10px;
+}
+#fade-quote-carousel.carousel .carousel-indicators > li {
+  background-color: #e84a64;
+  border: none;
+}
+#fade-quote-carousel blockquote {
+    text-align: center;
+    border: none;
+}
+#fade-quote-carousel .profile-circle {
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    border-radius: 100px;
+}
+.carousel-inner.img-carosal{
+	border-radius: 50%;
+	background: red;
+}
